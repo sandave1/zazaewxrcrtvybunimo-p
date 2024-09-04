@@ -1,4 +1,4 @@
-telethon
+telebot==0.0.5
+telegram==0.0.1
+Telethon==1.30.0
 asyncio
-re
-os
